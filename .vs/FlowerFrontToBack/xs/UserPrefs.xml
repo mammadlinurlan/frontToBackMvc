@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{9EB4768E-3CB2-4C6F-A39F-9091BC62687B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlowerFrontToBack/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="FlowerFrontToBack/Startup.cs" Line="31" Column="34" />
+      <File FileName="FlowerFrontToBack/Controllers/Home.cs" />
+      <File FileName="FlowerFrontToBack/Views/Shared/_Layout.cshtml" Line="268" Column="54" />
+      <File FileName="FlowerFrontToBack/Views/_ViewStart.cshtml" />
+      <File FileName="FlowerFrontToBack/Views/Home/Index.cshtml" Line="498" Column="2" />
+      <File FileName="FlowerFrontToBack/Controllers/Elements.cs" Line="21" Column="39" />
+      <File FileName="FlowerFrontToBack/Views/Elements/Progressbar.cshtml" Line="212" Column="2" />
+      <File FileName="FlowerFrontToBack/Views/Elements/Tabs.cshtml" />
+      <File FileName="FlowerFrontToBack/Views/Elements/Accordions.cshtml" />
+      <File FileName="FlowerFrontToBack/wwwroot/assets/js/main.js" Line="32" Column="1" />
+      <File FileName="FlowerFrontToBack/Controllers/Product.cs" Line="14" Column="1" />
+      <File FileName="FlowerFrontToBack/Views/Product/OrangeAmarylls.cshtml" Line="269" Column="16" />
+      <File FileName="FlowerFrontToBack/Views/Elements/ProductList.cshtml" Line="343" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlowerFrontToBack" expanded="True">
+            <Node name="FlowerFrontToBack" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Elements" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Product" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="assets" expanded="True">
+                  <Node name="js" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FlowerFrontToBack PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
